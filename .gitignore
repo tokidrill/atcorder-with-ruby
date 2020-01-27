@@ -1,0 +1,9 @@
+# for Git
+!.gitkeep
+!Gemfile.lock    # .lock は commit する方針なので明示的に.
+
+# previsionings
+.vagrant
+
+# modules
+.bundle
