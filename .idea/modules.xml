@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ast-2.4.0.iml" filepath="$PROJECT_DIR$/.idea/modules/ast-2.4.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/atcorder-with-ruby.iml" filepath="$PROJECT_DIR$/.idea/atcorder-with-ruby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parser-2.7.0.2.iml" filepath="$PROJECT_DIR$/.idea/modules/parser-2.7.0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rainbow-3.0.0.iml" filepath="$PROJECT_DIR$/.idea/modules/rainbow-3.0.0.iml" />
     </modules>
   </component>
 </project>
